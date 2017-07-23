@@ -1,0 +1,4 @@
+<td><div class="shortcutHome">
+		<a href="mouvement_caisse.php"><img src="../vente/images/caisse.JPG" width="64" height="64"><br>
+		Bon De Mouvement Caisse</a>
+		</div></td>

@@ -1,0 +1,11 @@
+@charset "utf-8";
+.الإمضاء {
+	font-size: medium;
+	text-decoration: underline;
+}
+.الإمضاء p {
+	font-size: large;
+}
+.medium {
+	font-size: medium;
+}
